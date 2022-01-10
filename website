@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Animesite | Home</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Anime</h1>
+    </header>
+    <nav>
+        <a href="">This season</a>
+        <a href="">Previous season</a>
+        <a href="">Top 10's</a>
+        <a href="">Must watch</a>
+        <a href="">Overated shit</a>
+    </nav>
+    <main>
+        <section>
+            <h2>Anime Live Wallpapers ✨✨</h2>
+            <video src="img/mylivewallpapers.com-Alphen-and-Shionne-Tales-of-Arise.mp4" width="66%" poster="img/random.jpg" controls></video>
+            <br>
+            <br>
+            <video src="img/mylivewallpapers.com-Jiraiya.mp4" width="40%" poster="img/random3.jpg" controls></video>
+            <video src="img/mylivewallpapers.com-Jiraiya.mp4" width="40%" poster="img/random2.jpg" controls></video>
+        </section>
+        <section>
+            <h2>Anime Wallpaper</h2>
+            <img src="img/random4.webp" alt="kya dekhra hai bro" width="66%">
+            <br>
+            <br>
+            <img src="img/sakuna.jpg" alt="kya dekhra hai bro" width="40%">
+            <img src="img/scenery.jpg" alt="kya dekhra hai bro" width="40%">
+            <br>
+            <br>
+            <br>
+            <img src="img/scenery2.jpg" alt="kya dekhra hai bro" width="40%">
+            <img src="img/scenery3.jpg" alt="kya dekhra hai bro" width="40%">
+            <br>
+            <br>
+            <img src="img/tanjiro.jpg" alt="kya dekhra hai bro" width="66%">
+        </section>
+        <section>
+            <h2>Anime Book s</h2>
+            <a target="_blank" href="img/Basics of ME.pdf"><img src="img/fate.jpg" alt="" width="45%" height="85%"></a>
+            <a target="_blank" href="img/Infinite Series.pdf"><img src="img/kirito.jpg" alt="" width="45%" height="85%"></a>
+            <br>
+            <br>
+            <a target="_blank" href="img/Electronic Devices and Circuit Theory book.pdf"><img src="img/asta.jpg" alt="" width="44%" height="80%"></a>
+            <a target="_blank" href="img/c_book.pdf"><img src="img/anime4.jpg" alt="" width="44%" height="80%"></a>
+        </section>
+        <section>
+            <h2>
+                Our Founder
+            </h2>
+            <img src="img/akatsuki.jpg" alt="This is Aman Dhattarwal">
+            <h3>Akatsuki</h3>
+            <a href="http://www.youtube.com/amandhattarwal" target="_blank" rel="noopener noreferrer">YouTube</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+            <a href="http://www.linkedin.com/in/dhattarwalaman" target="_blank" rel="noopener noreferrer">LinkedIn</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+            <a href="http://www.instagram.com/dhattarwalaman" target="_blank" rel="noopener noreferrer">Instagram</a>
+
+            <h4>Akatsuki (暁, literally meaning: "Dawn" or "Daybreak") was a group of shinobi that existed outside the usual system of hidden villages. Over the course of several decades, Akatsuki took different forms and was led by different individuals. Though each iteration is viewed as either subversives or criminals, all seek to make the world a better place through their own means. Each Akatsuki tended to have multiple lairs across the world, inaccessible either due to their remoteness or the various security measures that protected them.</h4>
+            <h5>The initial concept of Akatsuki was devised by Black Zetsu as part of its plan to revive its mother, though it pretended the idea came from Madara Uchiha, whom Black Zetsu tricked into thinking that it was a manifestation of his will.[1] Akatsuki was originally founded by Yahiko during the Third Shinobi World War alongside his childhood friends, Nagato and Konan. As citizens of Amegakure who had been orphaned by the Second Shinobi World War, the three created Akatsuki as a way to bring peace to their home country, which too often got caught in the crossfire of the Five Great Shinobi Countries' many conflicts.[2] In time, the three were approached by Tobi, who introduced himself as Madara Uchiha.[3] Tobi claimed Nagato was the reincarnation of the Sage of Six Paths and offered to teach him to control the power of his Rinnegan, though Yahiko distrusted him and prompted Nagato to turn down his offer.[4] Nevertheless, Tobi would later claim that it was he who encouraged Yahiko to form Akatsuki, unbeknownst to Konan.[5]
+
+                Akatsuki's desire for an end to war attracted many fellow Ame ninja to their cause and, in time, word of their exploits began to travel beyond Amegakure's borders. Akatsuki's early fame was owed largely to Yahiko's leadership and his natural charisma, which kept the group united and motivated them to persevere despite the difficulties of their goal. Yahiko, however, viewed himself as merely a facilitator for Nagato, who would ultimately be the actual source of world peace because of his Rinnegan. Ame's leader, Hanzō, also became aware of Akatsuki and perceived them as a threat to his rule, a belief encouraged by Danzō Shimura in the anime. Hanzō approached Akatsuki offering to help them broker peace between Konohagakure, Iwagakure, and Sunagakure. When Yahiko, Nagato, and Konan arrived to meet with him, however, they were ambushed by Hanzō's men and members of Danzō's Root, who took Konan hostage and forced Yahiko to commit suicide in order to save her. Enraged by Yahiko's death, Nagato summoned the Demonic Statue of the Outer Path and used it to slaughter their attackers, though Hanzō himself escaped.
+                
+                In the anime, the other members of Akatsuki were tipped off to Hanzō's plan and attempted to provide backup to Yahiko and the others. Tobi and Zetsu intercepted them and after a long battle, Tobi killed the remaining members of the group.</h5>
+        </section>
+    </main>
+
+    <footer>
+        <a href="#">FAQ</a>
+        <a href="#">Contact Us</a>
+        <a href="#">Terms of Use</a>
+        <a href="#">Privacy Policy</a>
+        <a href="#">Refund Policy</a>
+        <a href="#">&copy; 2020 | Apni Kaksha</a>
+    </footer>
+</body>
+</html>
